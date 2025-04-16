@@ -12,7 +12,7 @@ public class DemoApplication {
 	
 	@GetMapping("/getMsg")
 	public String get() {
-		return "Hello AWS";
+		return "Hello AWS 2";
 	}
 	
 	public static void main(String[] args) {
